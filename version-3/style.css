@@ -1,0 +1,40 @@
+#odin-recipes {
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+}
+
+.button {
+    font-size: large;
+    font-weight: 900;
+    color: black;
+    width: 100%; /* Ensure buttons take up full width */
+    display: block; /* Make button block-level to fill the width */
+    text-align: center; /* Center the text inside the button */
+}
+
+#banana-bread {
+    background-color: rgb(241, 185, 0);
+    margin: 20px 0; /* Space between buttons */
+    padding: 20px 40px;
+    border: 5px solid black;
+    box-sizing: border-box; /* Ensure padding and border are included in the width calculation */
+}
+
+#garlic-parm {
+    background-color: rgb(244, 213, 152);
+    margin: 20px 0;
+    padding: 20px 40px;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
+
+#tomato-soup {
+    background-color: rgb(228, 97, 49);
+    margin: 20px 0;
+    padding: 20px 40px;
+    border: 5px solid black;
+    box-sizing: border-box;
+}

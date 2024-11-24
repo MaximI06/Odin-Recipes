@@ -1,0 +1,58 @@
+#tomato-title{
+    font-family: "Times New Roman";
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(230, 121, 85);
+    background-color: rgb(52, 26, 16);
+}
+
+#tomato-image{
+    width: 600px;
+    height: auto;
+}
+
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(230, 121, 85);
+    background-color: rgb(52, 26, 16);
+    text-align: center;
+    font-weight: 900;
+}
+
+#description{
+    font-size: 35px;
+}
+
+#ingredients{
+    font-size: 30px;
+}
+
+#steps{
+    font-size: 25px;
+}
+
+#description-text{
+    text-align: center;
+    color: rgb(230, 121, 85);
+    background-color: rgb(52, 26, 16);
+    font-family: "Times New Roman";
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.list{
+    color: rgb(230, 121, 85);
+    background-color: rgb(52, 26, 16);
+    font-family: "Times New Roman";
+}
+
+#ingredients-list{
+    font-size: 20px;
+    font-weight: 200; 
+}
+
+#steps-list{
+    font-size: 15px;
+    font-weight: 100;
+}
